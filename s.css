@@ -1,0 +1,67 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+}
+.a{
+    text-align: center;
+    font-family: fantasy;
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.aul1Ev7wribCRhwnUVbAEgHaEK&pid=Api&P=0&h=180);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.b{
+        padding-left: 90px;
+}
+body{
+    background: url(http://www.wallpapers4u.org/wp-content/uploads/line_shade_light_bright_16423_1920x1080.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 500px;
+
+    
+}
+.v{
+    padding-top: 5px;
+    padding-left: 95px;
+}
+button{
+    background-color: rgb(190, 190, 66);
+    color: black;
+}
+ img{
+    padding-right: 40px; 
+    padding-top: 50px; 
+    padding-left: 20px; 
+}
+a:hover{
+    color: black;
+}
+a:active{
+    color: red;
+}
+.buy{
+    text-align: center;
+    padding-top: 110px;
+    display: inline-flexbox;
+    
+}
+fieldset{
+    display: inline;
+    background-color:white;
+    box-shadow: 5px 5px 5px 5px black;
+    border-color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+#address{
+    padding-left: 90px;
+    padding-right: 90px;
+}
+h3{
+    font-size: 22px;
+}
+.ex{
+    text-align: left;
+    display:block;
+}
